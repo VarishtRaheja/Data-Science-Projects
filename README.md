@@ -1,0 +1,1 @@
+Basic analysis of a small demographic dataset with markers in age, education and salary. There are association parameters between some variables.
