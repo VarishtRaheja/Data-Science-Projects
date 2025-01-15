@@ -1,0 +1,1 @@
+This project is running a sea level simple linear regression model to dertermine the relationship between the independent and dependent variables. A few assumptions regarding the data set have been made.
