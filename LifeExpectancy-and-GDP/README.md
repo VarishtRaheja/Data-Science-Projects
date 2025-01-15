@@ -1,0 +1,1 @@
+Analysis on life expectancy and GDP based on different countries and time period. Running a simple linear regression model to check for assocation between the variables.
